@@ -1,7 +1,8 @@
 # changan_toolbox
+<img width="655" height="542" alt="image" src="https://github.com/user-attachments/assets/de543cc4-8292-4112-b28e-944ebfc88146" />
 
 > 
-> 长安飞鱼车机 APK 兼容签名工具箱，Windows .NET WinForms 工具
+> 长安飞鱼车机 APK 兼容签名工具箱(支持自动车机二级认证验证)，Windows .NET WinForms 工具
 > 用于对安卓 APK 实现**v1 (JAR) 兼容签名**，解决长安飞鱼车机应用覆盖安装签名校验限制，支持读取 APK 信息、解析应用标签、AXML 二进制解析、resources.arsc 资源解析。
 
 ## 📖 项目简介
